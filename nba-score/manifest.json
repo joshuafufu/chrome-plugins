@@ -1,0 +1,10 @@
+{
+	"name": "NBA Live Scores",
+	"manifest_version": 2,
+	"version": "1.0",
+    "description": "NBA Live Scores",
+	"browser_action": {
+		"default_icon": "images/nba-logo.gif",
+		"default_popup": "popup.html"
+	}
+}
